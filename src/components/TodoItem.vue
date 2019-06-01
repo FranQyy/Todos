@@ -29,7 +29,6 @@ export default {
   .is-complete{
     text-decoration: line-through;
   }
-
   .del{
     background:red;
     border: none;
@@ -38,6 +37,6 @@ export default {
     border-radius: 50%;
     color: white;
     font-size: 16px;
-
+    width: 20px;
   }
 </style>
